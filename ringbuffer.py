@@ -4,9 +4,9 @@
 
 This class is a simple ring buffer.
 
-@author: vishnu
+@author: vish9u
 """
-#__author__ = 'vishnu'
+#__author__ = 'vish9u'
 
 
 class RingBuffer(object):
